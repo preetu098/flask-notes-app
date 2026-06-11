@@ -1,6 +1,6 @@
 # Flask Notes App
 
-A simple Notes CRUD Application built with Flask, SQLite and Bootstrap 5.
+A simple Notes CRUD Application built with Flask, Mysql and Bootstrap 5.
 
 ## Features
 
