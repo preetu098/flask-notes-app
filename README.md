@@ -14,7 +14,7 @@ A simple Notes CRUD Application built with Flask, Mysql and Bootstrap 5.
 
 * Python
 * Flask
-* SQLite
+* Mysql
 * Bootstrap 5
 
 ## Installation
