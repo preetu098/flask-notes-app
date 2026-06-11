@@ -17,6 +17,9 @@ def home():
     return render_template("home.html")
     # return "Personal Note Manager Home Page"
 
+@app.route("/manage")
+def manage_page():
+    return render_template("manage.html")
 
 
 @app.route("/add",methods=['GET','POST'])
